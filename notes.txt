@@ -1,0 +1,21 @@
+App: https://netflix-clone-project-e68a0.web.app/
+
+STEPS:
+- Get TMDB API key
+- Create a react app
+- Setup firebase hosting
+- Get all the movies
+- Build the Rows
+- Build the Banner
+- Build the Nav bar
+- Add Trailer popups
+    > npm i react-youtube
+    > npm i movie-trailer
+    logic in Row.js
+
+axios
+    > npm i axios   // for making requests (like postman https://www.postman.com/ or insomnia https://insomnia.rest/)
+    create /src/requests.js
+    create /src/axios.js
+
+Quokka.js - (VS Code extension) Live Scratchpad for js.
